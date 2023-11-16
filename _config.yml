@@ -1,10 +1,10 @@
 # Site settings
-title: 罗欣雨的博客
-SEOTitle: 罗欣雨的博客
+title: Lionel的博客
+SEOTitle: Lionel的博客
 header-img: img/post-bg-index.jpg
 email: lionel202311@163.com
 description: "Every failure is leading towards success."
-keyword: "罗欣雨的博客,Lionel, 罗欣雨, Python"
+keyword: "Lionel的博客,Lionel, Lionel, Python"
 url: "https://lionelcz.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
